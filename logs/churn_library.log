@@ -1,0 +1,3 @@
+alembic.runtime.migration - INFO - Context impl SQLiteImpl.
+alembic.runtime.migration - INFO - Will assume non-transactional DDL.
+root - INFO - Loading data
